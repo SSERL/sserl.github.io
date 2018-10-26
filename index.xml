@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -138,29 +138,29 @@ formalism.&lt;/p&gt;
     </item>
     
     <item>
-      <title>A Cloud Brokerage Solution: Formal Methods MeetSecurity in Cloud Federations</title>
-      <link>https://sserl.github.io/publication/sbl2018hpcs/</link>
+      <title>A Cloud Brokerage Solution: Formal Methods Meet   Security in Cloud Federations</title>
+      <link>https://sserl.github.io/publication/sbl2018_hpcs.bib/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://sserl.github.io/publication/sbl2018hpcs/</guid>
+      <guid>https://sserl.github.io/publication/sbl2018_hpcs.bib/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Lesson on Verification of IoT Software withFrama-C</title>
-      <link>https://sserl.github.io/publication/bkl2018hpcs/</link>
+      <title>A Lesson on Verification of IoT Software with   Frama-C</title>
+      <link>https://sserl.github.io/publication/bkl2018_hpcs.bib/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://sserl.github.io/publication/bkl2018hpcs/</guid>
+      <guid>https://sserl.github.io/publication/bkl2018_hpcs.bib/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Calculating Efficient Parallel Programs for GeneralAccumulative Computations with Coq</title>
-      <link>https://sserl.github.io/publication/lou2018comlan/</link>
+      <title>Almost there: a study on quasi-contributors in open source software projects</title>
+      <link>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://sserl.github.io/publication/lou2018comlan/</guid>
+      <guid>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</guid>
       <description></description>
     </item>
     
