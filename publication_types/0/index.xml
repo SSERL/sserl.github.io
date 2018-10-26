@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on SSERL</title>
+    <link>https://sserl.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on SSERL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://sserl.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards Reliable Things: Formal Verification of IoT Software with Frama-C</title>
+      <link>https://sserl.github.io/publication/bkl2018issre/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/publication/bkl2018issre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Secure Things, or How to Verify IoTSoftware with Frama-C</title>
+      <link>https://sserl.github.io/publication/bkl2018zinc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/publication/bkl2018zinc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
