@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UG on SSERL</title>
+    <link>https://sserl.github.io/tags/ug/</link>
+    <description>Recent content in UG on SSERL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://sserl.github.io/tags/ug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kevin Gonzalez Castro</title>
+      <link>https://sserl.github.io/members/undergraduate/kag483/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/members/undergraduate/kag483/</guid>
+      <description>Kevin Gonzalez Castro is an undergraduate research assistant at Northern Arizona University. He works with Frédéric Loulergue on a domain specific language (DSL) for large-scale graph processing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -58,25 +58,35 @@
     <item>
       <title>Ana Paula Chaves Steinmacher</title>
       <link>https://sserl.github.io/members/graduate/acs549/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/acs549/</guid>
-      <description></description>
+      <description>&lt;p&gt;Ana Paula Chaves is a graduate teaching assistant at the &lt;a href=&#34;https://nau.edu/siccs&#34; target=&#34;_blank&#34;&gt;School of
+Informatics, Computing and Cyber Systems&lt;/a&gt;,
+&lt;a href=&#34;https://nau.edu&#34; target=&#34;_blank&#34;&gt;Northern Arizona University&lt;/a&gt;, advised by &lt;a href=&#34;https://www.ime.usp.br/~gerosa&#34; target=&#34;_blank&#34;&gt;Marco
+Gerosa&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.anachaves.pro.br&#34; target=&#34;_blank&#34;&gt;Personal webpage&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Austin Sander</title>
       <link>https://sserl.github.io/members/graduate/as2544/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/as2544/</guid>
-      <description></description>
+      <description>&lt;p&gt;Austin Sanders is a graduate teaching assistant at the &lt;a href=&#34;https://nau.edu/siccs&#34; target=&#34;_blank&#34;&gt;School of
+Informatics, Computing and Cyber Systems&lt;/a&gt;,
+&lt;a href=&#34;https://nau.edu&#34; target=&#34;_blank&#34;&gt;Northern Arizona University&lt;/a&gt;, advised by &lt;a href=&#34;https://www.cefns.nau.edu/~jg455/&#34; target=&#34;_blank&#34;&gt;John
+Georgas&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Jolan Philippe</title>
       <link>https://sserl.github.io/members/graduate/jp2589/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/jp2589/</guid>
       <description></description>
@@ -85,7 +95,7 @@
     <item>
       <title>Salwa Souaf</title>
       <link>https://sserl.github.io/members/graduate/ss3465/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/ss3465/</guid>
       <description></description>
@@ -94,7 +104,7 @@
     <item>
       <title>Arvid Jakobsson</title>
       <link>https://sserl.github.io/members/graduate/arvid_jakobsson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/arvid_jakobsson/</guid>
       <description>&lt;p&gt;Arvid Jakobsson is a Phd student at the Université d&amp;rsquo;Orléans, France,
@@ -110,7 +120,7 @@ scalable parallel programs.&lt;/p&gt;
     <item>
       <title>Dara Ly</title>
       <link>https://sserl.github.io/members/graduate/dara_ly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/dara_ly/</guid>
       <description>&lt;p&gt;Dara Ly is a Phd student at the Université d&amp;rsquo;Orléans, France, and he
@@ -125,7 +135,7 @@ checking.&lt;/p&gt;
     <item>
       <title>Thibaut Tachon</title>
       <link>https://sserl.github.io/members/graduate/thibaut_tachon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/thibaut_tachon/</guid>
       <description>&lt;p&gt;Thibaut Tachon is a Phd student at the Université d&amp;rsquo;Orléans, France,
@@ -134,6 +144,19 @@ advisor is &lt;a href=&#34;https://frederic.loulergue.eu&#34; target=&#34;_blank
 is co-advised by Gaétan Hains at Huawei Technologies France. His
 research is focused on the bulk synchronous parallel automata
 formalism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kevin Gonzalez Castro</title>
+      <link>https://sserl.github.io/members/undergraduate/kag483/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/members/undergraduate/kag483/</guid>
+      <description>&lt;p&gt;Kevin Gonzalez Castro is an undergraduate research assistant at
+&lt;a href=&#34;https://nau.edu&#34; target=&#34;_blank&#34;&gt;Northern Arizona University&lt;/a&gt;.  He works with
+&lt;a href=&#34;https://frederic.loulergue.eu&#34; target=&#34;_blank&#34;&gt;Frédéric Loulergue&lt;/a&gt; on a domain
+specific language (DSL) for large-scale graph processing.&lt;/p&gt;
 </description>
     </item>
     
@@ -152,15 +175,6 @@ formalism.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/publication/bkl2018_hpcs.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Almost there: a study on quasi-contributors in open source software projects</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</guid>
       <description></description>
     </item>
     
