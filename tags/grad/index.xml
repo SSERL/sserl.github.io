@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://sserl.github.io/tags/grad/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ana Paula Chaves Steinmacher</title>
       <link>https://sserl.github.io/members/graduate/acs549/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/acs549/</guid>
       <description>Ana Paula Chaves is a graduate teaching assistant at the School of Informatics, Computing and Cyber Systems, Northern Arizona University, advised by Marco Gerosa.
@@ -25,7 +25,7 @@ Personal webpage</description>
     <item>
       <title>Arvid Jakobsson</title>
       <link>https://sserl.github.io/members/graduate/arvid_jakobsson/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/arvid_jakobsson/</guid>
       <description>Arvid Jakobsson is a Phd student at the Université d&amp;rsquo;Orléans, France, and he is also working for Huawei Technologies France. His SSERL advisor is Frédéric Loulergue, and he is co-advised by Wadoud Bousdira and Frédéric Dabrowski at the Université d&amp;rsquo;Orléans, and Gaétan Hains and Wijnand Suijlen at Huawei Technologies France. His research is focused on the static analysis of scalable parallel programs.</description>
@@ -34,7 +34,7 @@ Personal webpage</description>
     <item>
       <title>Austin Sander</title>
       <link>https://sserl.github.io/members/graduate/as2544/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/as2544/</guid>
       <description>Austin Sanders is a graduate teaching assistant at the School of Informatics, Computing and Cyber Systems, Northern Arizona University, advised by John Georgas.</description>
@@ -43,16 +43,25 @@ Personal webpage</description>
     <item>
       <title>Dara Ly</title>
       <link>https://sserl.github.io/members/graduate/dara_ly/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/dara_ly/</guid>
       <description>Dara Ly is a Phd student at the Université d&amp;rsquo;Orléans, France, and he is also working for CEA LIST. His SSERL advisor is Frédéric Loulergue, and he is co-advised by Julien Signoles and Nikolai Kosmatov at CEA LIST. He works on the formal verification of a tool for runtime assertion checking.</description>
     </item>
     
     <item>
+      <title>Jefferson Silva</title>
+      <link>https://sserl.github.io/members/graduate/jefferson_silva/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://sserl.github.io/members/graduate/jefferson_silva/</guid>
+      <description>Ana Paula Chaves is a PhD candidate at the Institute of Mathematics and Statistics, University of São Paul in Brazil, advised by Marco Gerosa and Igor Steinmacher.</description>
+    </item>
+    
+    <item>
       <title>Jolan Philippe</title>
       <link>https://sserl.github.io/members/graduate/jp2589/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/jp2589/</guid>
       <description></description>
@@ -61,7 +70,7 @@ Personal webpage</description>
     <item>
       <title>Salwa Souaf</title>
       <link>https://sserl.github.io/members/graduate/ss3465/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/ss3465/</guid>
       <description></description>
@@ -70,7 +79,7 @@ Personal webpage</description>
     <item>
       <title>Thibaut Tachon</title>
       <link>https://sserl.github.io/members/graduate/thibaut_tachon/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/graduate/thibaut_tachon/</guid>
       <description>Thibaut Tachon is a Phd student at the Université d&amp;rsquo;Orléans, France, and he is also working for Huawei Technologies France. His SSERL advisor is Frédéric Loulergue, and he is co-advised by Gaétan Hains at Huawei Technologies France. His research is focused on the bulk synchronous parallel automata formalism.</description>

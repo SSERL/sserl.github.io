@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://sserl.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://sserl.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/home/about/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Members</title>
       <link>https://sserl.github.io/home/members/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/home/members/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://sserl.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/home/publications/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Software</title>
       <link>https://sserl.github.io/home/software/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/home/software/</guid>
       <description></description>

@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>BSML</title>
-      <link>https://sserl.github.io/software/bsml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sserl.github.io/software/bsml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DeepState</title>
       <link>https://sserl.github.io/software/deepstate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sserl.github.io/software/deepstate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLOSScoach</title>
+      <link>https://sserl.github.io/software/flosscoach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/software/flosscoach/</guid>
       <description></description>
     </item>
     

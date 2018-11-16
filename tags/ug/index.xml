@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://sserl.github.io/tags/ug/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Kevin Gonzalez Castro</title>
       <link>https://sserl.github.io/members/undergraduate/kag483/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0600</pubDate>
       
       <guid>https://sserl.github.io/members/undergraduate/kag483/</guid>
       <description>Kevin Gonzalez Castro is an undergraduate research assistant at Northern Arizona University. He works with Frédéric Loulergue on a domain specific language (DSL) for large-scale graph processing.</description>
