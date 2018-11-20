@@ -1,1142 +1,743 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/faculty/john_georgas/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/faculty/marco_gerosa/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/faculty/alex_groce/</loc>
-      <lastmod>2018-10-26T12:30:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/faculty/frederic_loulergue/</loc>
-      <lastmod>2018-10-26T12:30:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/faculty/igor_steinmacher/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/acs549/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/as2544/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/jefferson_silva/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/jp2589/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/ss3465/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/arvid_jakobsson/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/dara_ly/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/graduate/thibaut_tachon/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/undergraduate/kag483/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/sbl2018_hpcs.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2018_hpcs.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_vazms18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/grocehmsz18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_ese_anichebtgd18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icse_zanattams18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2018_nfm.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lbk2018_tap.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icse_anichetsw0sg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groceajmh18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_iwpc_santosg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/tl2018_atc.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_oss_0001sg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2018_comlan.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_cscw_balalisasg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/abl2018_hpcs.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_criwg_bertholdomrg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2018_secdev.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_chi_chavesg18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lkl2018_hilt.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/sl2018_hpcs.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/holmesgpmako18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/christig18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/pl2018_hpcs.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/nl2018_hlpp.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_amcis_bertholdomrgo18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lw2018_atc.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_silvagsc18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_ferreiras0sm18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icse_0001ds18.bib/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2017_candar.bib/</loc>
-      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2017_scpe.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/nlb2017_pdcat.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/holmesg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/ahmedjgm17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/thl2017_ppl.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_software_zanattasmsp17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lbt2015_ijpp.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2017_rr.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/gopinathaajg17a.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/plb2017_hpcs.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_jisa_steinmacherrfw17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/blk2017_vpt.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icsm_silvawgsg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2017_iccs.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2017_pdcat.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_csee_silvasc17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/gopinathaajg17b.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icsm_robillardmtbceg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/grocehk17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce17a.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce17b.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/abs-1711-01661.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/jdb2017_iccs.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/christigg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_csur_santanacgkm17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2017a_scpe.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_silvawsg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2017_hpcs.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/gopinathjg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/wl2017_hpcs.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_csee_pintofsg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_wesselaogw17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icse_dinizsgs17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_jss_wieserskotg17.bib/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2016_cstva.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/aburasg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_jwsr_olivagksm16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icsm_anichebtdg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_hci_bertholdokg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/thl2016_hlpp.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/alipourg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/ahmedgbgj16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groceazcr16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_isf_vreedeavgw16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/alipourg16a.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_anichegt16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/lou2016_sac.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/alipoursgmg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/alipourgzsc16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/alipourggc16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icsm_diasspcg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sbes_nascimentoscsmt16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/gopinathaajg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/holmesga16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_wcre_pintosg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/gopinathaajg16a.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icse_steinmacherctg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce16a.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce16b.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce16c.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce16d.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/groce16e.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_hci_bertholdog16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_scam_anichetzdg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_corr_santanacgkm16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/georgaspm16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/gopinathjg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_sigsoft_sarmagsl16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_fie_brandaobg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_conf_icsm_wiesesstg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/dblp_journals_sigsoft_bosseg16.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/bkl2016_scam.bib/</loc>
-      <lastmod>2016-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication_types/1/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication_types/2/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication_types/4/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/bsml/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/deepstate/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/flosscoach/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/tags/faculty/</loc>
-      <lastmod>2018-10-26T12:30:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/tags/grad/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/members/</loc>
-      <lastmod>2018-10-26T12:30:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication_types/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/publication/</loc>
-      <lastmod>2018-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/sydpacc/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/tstl/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/tags/</loc>
-      <lastmod>2018-10-26T12:30:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/tags/ug/</loc>
-      <lastmod>2018-10-26T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://sserl.github.io/software/universalmutator/</loc>
-    </url>
-    
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sserl.github.io/home/about/</loc>
+    <lastmod>2016-04-20T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/faculty/john_georgas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/faculty/marco_gerosa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/faculty/alex_groce/</loc>
+    <lastmod>2018-10-26T12:30:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/faculty/frederic_loulergue/</loc>
+    <lastmod>2018-10-26T12:30:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/faculty/igor_steinmacher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/home/members/</loc>
+    <lastmod>2016-04-20T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/acs549/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/as2544/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/jefferson_silva/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/jp2589/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/ss3465/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/home/publications/</loc>
+    <lastmod>2016-04-20T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/home/software/</loc>
+    <lastmod>2016-04-20T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/arvid_jakobsson/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/dara_ly/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/graduate/thibaut_tachon/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/undergraduate/kag483/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/sbl2018_hpcs.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2018_hpcs.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_vazms18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/grocehmsz18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_ese_anichebtgd18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icse_zanattams18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2018_nfm.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lbk2018_tap.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icse_anichetsw0sg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groceajmh18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_iwpc_santosg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/tl2018_atc.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_oss_0001sg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2018_comlan.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_cscw_balalisasg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/abl2018_hpcs.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_criwg_bertholdomrg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2018_secdev.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_chi_chavesg18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lkl2018_hilt.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/sl2018_hpcs.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/holmesgpmako18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/christig18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/pl2018_hpcs.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/nl2018_hlpp.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_amcis_bertholdomrgo18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lw2018_atc.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_silvagsc18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_ferreiras0sm18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icse_0001ds18.bib/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2017_candar.bib/</loc>
+    <lastmod>2017-11-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2017_scpe.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/nlb2017_pdcat.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/holmesg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/ahmedjgm17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/thl2017_ppl.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_software_zanattasmsp17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lbt2015_ijpp.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2017_rr.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/gopinathaajg17a.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/plb2017_hpcs.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_jisa_steinmacherrfw17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/blk2017_vpt.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icsm_silvawgsg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2017_iccs.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2017_pdcat.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_csee_silvasc17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/gopinathaajg17b.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icsm_robillardmtbceg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/grocehk17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce17a.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce17b.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/post/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/abs-1711-01661.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/jdb2017_iccs.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/christigg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_csur_santanacgkm17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2017a_scpe.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_silvawsg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2017_hpcs.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/gopinathjg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/wl2017_hpcs.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_csee_pintofsg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_wesselaogw17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icse_dinizsgs17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_jss_wieserskotg17.bib/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2016_cstva.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/aburasg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_jwsr_olivagksm16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icsm_anichebtdg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_hci_bertholdokg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/thl2016_hlpp.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/alipourg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/ahmedgbgj16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groceazcr16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_isf_vreedeavgw16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/alipourg16a.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_anichegt16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/lou2016_sac.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/alipoursgmg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/alipourgzsc16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/alipourggc16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icsm_diasspcg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sbes_nascimentoscsmt16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/gopinathaajg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/holmesga16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_wcre_pintosg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/gopinathaajg16a.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icse_steinmacherctg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce16a.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce16b.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce16c.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce16d.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/groce16e.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_hci_bertholdog16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_scam_anichetzdg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_corr_santanacgkm16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/georgaspm16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/gopinathjg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_sigsoft_sarmagsl16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_fie_brandaobg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_conf_icsm_wiesesstg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/dblp_journals_sigsoft_bosseg16.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/bkl2016_scam.bib/</loc>
+    <lastmod>2016-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication_types/1/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication_types/2/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication_types/4/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/bsml/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/deepstate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/flosscoach/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/tags/faculty/</loc>
+    <lastmod>2018-10-26T12:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/tags/grad/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/home/</loc>
+    <lastmod>2016-04-20T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/members/</loc>
+    <lastmod>2018-10-26T12:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication_types/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/publication/</loc>
+    <lastmod>2018-01-01T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/</loc>
+    <lastmod>2016-04-20T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/sydpacc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/tstl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/tags/</loc>
+    <lastmod>2018-10-26T12:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/tags/ug/</loc>
+    <lastmod>2018-10-26T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sserl.github.io/software/universalmutator/</loc>
+  </url>
   
 </urlset>
