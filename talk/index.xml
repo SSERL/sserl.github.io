@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 04 Dec 2018 09:19:47 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 15:17:14 -0700</lastBuildDate>
     
 	<atom:link href="https://sserl.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Language of Chatbots</title>
+      <link>https://sserl.github.io/talk/the-language-of-chatbots/</link>
+      <pubDate>Tue, 05 Feb 2019 15:17:14 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/the-language-of-chatbots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming With the Orleans Skeleton Library</title>
+      <link>https://sserl.github.io/talk/parallel-programming-with-the-orleans-skeleton-library/</link>
+      <pubDate>Tue, 05 Feb 2019 15:16:56 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/parallel-programming-with-the-orleans-skeleton-library/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Source in Education: What We Can Do About It?</title>
