@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Graduate Research Assistant">
+  <meta name="description" content="Regular expressions are powerful tools for manipulating non-tabular textual data. For many tasks (visualization, machine learning, etc), tables of numbers must be extracted from such data before processing by other R functions. We present the R package namedCapture, which facilitates such tasks by providing a new user-friendly syntax for defining regular expressions in R code. We begin by describing the history of regular expressions and their usage in R. We then describe the new features of the namedCapture package, and provide detailed comparisons with related R packages (rex, stringr, stringi, tidyr, rematch2, re2r).">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sserl.github.io/members/graduate/jp2589/">
+  <link rel="alternate" hreflang="en-us" href="https://sserl.github.io/talk/comparing-namedcapture-with-other-r-packages-for-regular-expressions/">
 
   
 
@@ -86,30 +86,30 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://sserl.github.io/members/graduate/jp2589/">
+  <link rel="canonical" href="https://sserl.github.io/talk/comparing-namedcapture-with-other-r-packages-for-regular-expressions/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="SSERL">
-  <meta property="og:url" content="https://sserl.github.io/members/graduate/jp2589/">
-  <meta property="og:title" content="Jolan Philippe | SSERL">
-  <meta property="og:description" content="Graduate Research Assistant">
+  <meta property="og:url" content="https://sserl.github.io/talk/comparing-namedcapture-with-other-r-packages-for-regular-expressions/">
+  <meta property="og:title" content="Comparing NamedCapture With Other R Packages for Regular Expressions | SSERL">
+  <meta property="og:description" content="Regular expressions are powerful tools for manipulating non-tabular textual data. For many tasks (visualization, machine learning, etc), tables of numbers must be extracted from such data before processing by other R functions. We present the R package namedCapture, which facilitates such tasks by providing a new user-friendly syntax for defining regular expressions in R code. We begin by describing the history of regular expressions and their usage in R. We then describe the new features of the namedCapture package, and provide detailed comparisons with related R packages (rex, stringr, stringi, tidyr, rematch2, re2r).">
   
   
     
   <meta property="og:image" content="https://sserl.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-10-26T00:00:00-07:00">
+  <meta property="article:published_time" content="2019-02-28T15:46:48-07:00">
   
-  <meta property="article:modified_time" content="2018-10-26T00:00:00-07:00">
-  
-
+  <meta property="article:modified_time" content="2019-02-28T15:46:48-07:00">
   
 
   
 
-  <title>Jolan Philippe | SSERL</title>
+  
+
+  <title>Comparing NamedCapture With Other R Packages for Regular Expressions | SSERL</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -240,8 +240,7 @@
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/Event">
 
   
 
@@ -256,128 +255,37 @@
 
 
 
-
-<div class="article-header d-xl-none">
-  <img src="/members/graduate/jp2589/featured_hudf5944077c90587750c87df65afd10a7_218080_1600x400_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
   
-</div>
 
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Comparing NamedCapture With Other R Packages for Regular Expressions</h1>
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">Jolan Philippe</h1>
+  
 
-        
-
-        
+  
+    
 
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="SICCS Software Engineering Research Laboratory">
-  </span>
   
-
-  <span class="article-date">
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Toby Dylan Hocking (Northern Arizona University)</span>
+    </span>
     
-    <meta content="2018-10-26 00:00:00 -0700 MST" itemprop="datePublished">
-    <time datetime="2018-10-26 00:00:00 -0700 MST" itemprop="dateModified">
-      Oct 26, 2018
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="SICCS Software Engineering Research Laboratory">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Jolan%20Philippe&amp;url=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f&amp;title=Jolan%20Philippe"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f&amp;title=Jolan%20Philippe"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=Jolan%20Philippe&amp;body=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/members/graduate/jp2589/featured_hudf5944077c90587750c87df65afd10a7_218080_680x500_fill_q90_box_smart1_2.png" itemprop="image" alt="">
-        
-      </div>
-    </div>
   </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">Jolan Philippe</h1>
-
-  
-
-  
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="SICCS Software Engineering Research Laboratory">
-  </span>
   
 
   <span class="article-date">
     
-    <meta content="2018-10-26 00:00:00 -0700 MST" itemprop="datePublished">
-    <time datetime="2018-10-26 00:00:00 -0700 MST" itemprop="dateModified">
-      Oct 26, 2018
+    <meta content="2019-02-28 15:46:48 -0700 MST" itemprop="datePublished">
+    <time datetime="2019-02-28 15:46:48 -0700 MST" itemprop="dateModified">
+      Feb 28, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -397,35 +305,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Jolan%20Philippe&amp;url=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f"
+         href="https://twitter.com/intent/tweet?text=Comparing%20NamedCapture%20With%20Other%20R%20Packages%20for%20Regular%20Expressions&amp;url=https%3a%2f%2fsserl.github.io%2ftalk%2fcomparing-namedcapture-with-other-r-packages-for-regular-expressions%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsserl.github.io%2ftalk%2fcomparing-namedcapture-with-other-r-packages-for-regular-expressions%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f&amp;title=Jolan%20Philippe"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsserl.github.io%2ftalk%2fcomparing-namedcapture-with-other-r-packages-for-regular-expressions%2f&amp;title=Comparing%20NamedCapture%20With%20Other%20R%20Packages%20for%20Regular%20Expressions"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f&amp;title=Jolan%20Philippe"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsserl.github.io%2ftalk%2fcomparing-namedcapture-with-other-r-packages-for-regular-expressions%2f&amp;title=Comparing%20NamedCapture%20With%20Other%20R%20Packages%20for%20Regular%20Expressions"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Jolan%20Philippe&amp;body=https%3a%2f%2fsserl.github.io%2fmembers%2fgraduate%2fjp2589%2f">
+         href="mailto:?subject=Comparing%20NamedCapture%20With%20Other%20R%20Packages%20for%20Regular%20Expressions&amp;body=https%3a%2f%2fsserl.github.io%2ftalk%2fcomparing-namedcapture-with-other-r-packages-for-regular-expressions%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -437,88 +345,131 @@
 
 </div>
 
+  
 </div>
 
 
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text">Regular expressions are powerful tools for manipulating non-tabular textual data. For many tasks (visualization, machine learning, etc), tables of numbers must be extracted from such data before processing by other R functions. We present the R package namedCapture, which facilitates such tasks by providing a new user-friendly syntax for defining regular expressions in R code. We begin by describing the history of regular expressions and their usage in R. We then describe the new features of the namedCapture package, and provide detailed comparisons with related R packages (rex, stringr, stringi, tidyr, rematch2, re2r).</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Mar 5, 2019
+            <div class="talk-time">
+              
+                2:00 PM
+                
+                  &mdash; 3:00 PM
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            
+            
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">SICCS, #308</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row" style="padding-top: 10px">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-12 col-md-9">
+
+            
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/tdhock/namedCapture-article/raw/master/RJwrapper.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
       
     </div>
 
     
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/grad/">Grad</a>
-  
-</div>
-
 
 
     
 
 
 
-
-
-
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">SICCS Software Engineering Research Laboratory</a></h5>
-    
-    
-    <ul class="network-icon" aria-hidden="true">
-      
-      
-      
-      
-      
-      
-      <li>
-        <a itemprop="sameAs" href="//github.com/SSERL" target="_blank" rel="noopener">
-          <i class="fab fa-github"></i>
-        </a>
-      </li>
-      
-    </ul>
+
+
+
+
+
+
+
   </div>
 </div>
 
 
-
-
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/members/graduate/arvid_jakobsson/">Arvid Jakobsson</a></li>
-        
-        <li><a href="/members/graduate/thibaut_tachon/">Thibaut Tachon</a></li>
-        
-        <li><a href="/members/graduate/dara_ly/">Dara Ly</a></li>
-        
-        <li><a href="/members/graduate/ss3465/">Salwa Souaf</a></li>
-        
-        <li><a href="/members/graduate/jefferson_silva/">Jefferson Silva</a></li>
-        
-      </ul>
-    </div>
-    
-
-    
-
-    
-
-
-  </div>
-</article>
 
 <div class="container">
   <footer class="site-footer">
