@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Groce (Northern Arizona University) on SSERL</title>
+    <link>https://sserl.github.io/authors/alex-groce-northern-arizona-university/</link>
+    <description>Recent content in Alex Groce (Northern Arizona University) on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 16:37:10 -0700</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/alex-groce-northern-arizona-university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepState: Symbolic Unit Testing for C and C&#43;&#43;</title>
+      <link>https://sserl.github.io/talk/deepstate-symbolic-unit-testing-for-c-and-c&#43;&#43;/</link>
+      <pubDate>Tue, 20 Nov 2018 16:37:10 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/deepstate-symbolic-unit-testing-for-c-and-c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

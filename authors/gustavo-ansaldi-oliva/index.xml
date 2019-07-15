@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Ansaldi Oliva on SSERL</title>
+    <link>https://sserl.github.io/authors/gustavo-ansaldi-oliva/</link>
+    <description>Recent content in Gustavo Ansaldi Oliva on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/gustavo-ansaldi-oliva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tweaking Association Rules to Optimize Software Change Recommendations</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using contextual information to predict co-changes</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Static Change Impact Analysis Approach based on Metrics and Visualizations to Support the Evolution of Workflow Repositories</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjwsr-oliva-gksm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjwsr-oliva-gksm-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

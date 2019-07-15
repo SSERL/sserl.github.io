@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yorah Bosse on SSERL</title>
+    <link>https://sserl.github.io/authors/yorah-bosse/</link>
+    <description>Recent content in Yorah Bosse on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/yorah-bosse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pedagogical Content for Professors of Introductory Programming Courses</title>
+      <link>https://sserl.github.io/publication/dblp-confiticse-bosse-rg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confiticse-bosse-rg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual programming and automatic evaluation of exercises: An experience with a STEM course</title>
+      <link>https://sserl.github.io/publication/dblp-conffie-brandao-bg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conffie-brandao-bg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is programming so difficult to learn?: Patterns of Difficulties Related to Programming Learning Mid-Stage</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-bosse-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-bosse-g-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

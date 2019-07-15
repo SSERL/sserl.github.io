@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>August Shi on SSERL</title>
+    <link>https://sserl.github.io/authors/august-shi/</link>
+    <description>Recent content in August Shi on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/august-shi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An extensible, regular-expression-based tool for multi-language mutant generation</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating non-adequate test-case reduction</title>
+      <link>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul Gopinath on SSERL</title>
+    <link>https://sserl.github.io/authors/rahul-gopinath/</link>
+    <description>Recent content in Rahul Gopinath on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/rahul-gopinath/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Does choice of mutation tool matter?</title>
+      <link>https://sserl.github.io/publication/dblp-journalssqj-gopinath-aajg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssqj-gopinath-aajg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation Reduction Strategies Considered Harmful</title>
+      <link>https://sserl.github.io/publication/dblp-journalstr-gopinath-aajg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalstr-gopinath-aajg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Adaptation via Test-Based Software Minimization</title>
+      <link>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Theory of Composite Faults</title>
+      <link>https://sserl.github.io/publication/dblp-conficst-gopinath-jg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficst-gopinath-jg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can testedness be effectively measured?</title>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-ahmed-gbgj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-ahmed-gbgj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating non-adequate test-case reduction</title>
+      <link>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating focused random tests using directed swarm testing</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Effectiveness of Mutant Sets</title>
+      <link>https://sserl.github.io/publication/dblp-conficst-gopinath-aajg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficst-gopinath-aajg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the limits of mutation reduction strategies</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-gopinath-aajg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-gopinath-aajg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topsy-Turvy: a smarter and faster parallelization of mutation analysis</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-gopinath-jg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-gopinath-jg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

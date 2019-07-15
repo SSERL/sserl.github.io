@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Lazaretti Zanatta on SSERL</title>
+    <link>https://sserl.github.io/authors/alexandre-lazaretti-zanatta/</link>
+    <description>Recent content in Alexandre Lazaretti Zanatta on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/alexandre-lazaretti-zanatta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Competence, Collaboration, and Time Management: Barriers and Recommendations for Crowdworkers</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-zanatta-ms-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-zanatta-ms-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barriers Faced by Newcomers to Software-Crowdsourcing Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalssoftware-zanatta-smsp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssoftware-zanatta-smsp-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

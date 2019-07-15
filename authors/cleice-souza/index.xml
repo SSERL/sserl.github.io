@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cleice Souza on SSERL</title>
+    <link>https://sserl.github.io/authors/cleice-souza/</link>
+    <description>Recent content in Cleice Souza on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/cleice-souza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Training software engineers using open-source software: the students&#39; perspective</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-0001-fssm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-0001-fssm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When students become contributors: leveraging OSS contributions in software engineering courses</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-ferreira-s-0-sm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-ferreira-s-0-sm-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Loulergue on SSERL</title>
+    <link>https://sserl.github.io/authors/frederic-loulergue/</link>
+    <description>Recent content in Frédéric Loulergue on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/frederic-loulergue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Logic against ghosts: comparison of two proof approaches for a list module</title>
+      <link>https://sserl.github.io/publication/dblp-confsac-blanchard-kl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsac-blanchard-kl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel programming with Coq: map and reduce skeletons on trees</title>
+      <link>https://sserl.github.io/publication/dblp-confsac-philippe-l-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsac-philippe-l-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Full Proof Automation in Frama-C Using Auto-active Verification</title>
+      <link>https://sserl.github.io/publication/dblp-confnfm-blanchard-lk-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confnfm-blanchard-lk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cloud Brokerage Solution: Formal Methods Meet Security in Cloud Federations</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-bl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-bl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lesson on Verification of IoT Software with Frama-C</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-blanchard-kl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghosts for Lists: A Critical Module of Contiki Verified in Frama-C</title>
+      <link>https://sserl.github.io/publication/dblp-confnfm-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confnfm-blanchard-kl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghosts for Lists: From Axiomatic to Executable Specifications</title>
+      <link>https://sserl.github.io/publication/dblp-conftap-loulergue-bk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conftap-loulergue-bk-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Bulk Synchronous Parallel Functional Programming in a Browser</title>
+      <link>https://sserl.github.io/publication/dblp-confuic-tesson-l-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confuic-tesson-l-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMFilter : A CHR-Based Solver for Generation of Executions under Weak Memory Models</title>
+      <link>https://sserl.github.io/publication/dblp-journalscl-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscl-blanchard-kl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Programming with OCaml: A Tutorial</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-allombert-bl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-allombert-bl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strong Security Guarantees: From Alloy to Coq (Research Poster)</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-l-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-l-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the Generation of Correct Java Programs (Research Poster)</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-l-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-l-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Secure Your Things: Secure Development of IoT Software with Frama-C</title>
+      <link>https://sserl.github.io/publication/dblp-confsecdev-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsecdev-blanchard-kl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verified Programs for Frequent Itemset Mining</title>
+      <link>https://sserl.github.io/publication/dblp-confuic-loulergue-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confuic-loulergue-w-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A BSPlib-style API for Bulk Synchronous Parallel ML</title>
+      <link>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Java Framework for High Level Parallel Programming Using Powerlists</title>
+      <link>https://sserl.github.io/publication/dblp-confpdcat-niculescu-lbs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confpdcat-niculescu-lbs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verified Accumulate Algorithmic Skeleton</title>
+      <link>https://sserl.github.io/publication/dblp-confic-nc-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confic-nc-loulergue-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Generation of BSP Automata</title>
+      <link>https://sserl.github.io/publication/dblp-journalsppl-tachon-lhl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsppl-tachon-lhl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Parallel Programs in Coq Using List Homomorphisms</title>
+      <link>https://sserl.github.io/publication/dblp-journalsijpp-loulergue-bt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsijpp-loulergue-bt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalization of a Big Graph API in Coq</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-bl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-bl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Concurrent Programs to Simulating Sequential Programs: Correctness of a Transformation</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1708-07226/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1708-07226/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imperative BSPlib-style Communications in BSML</title>
+      <link>https://sserl.github.io/publication/dblp-conficc-s-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficc-s-loulergue-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Algorithmic Skeletons with Bulk Synchronous Parallel ML</title>
+      <link>https://sserl.github.io/publication/dblp-confpdcat-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confpdcat-loulergue-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to the Special Issue on Practical Aspects of High-Level Parallel Programming</title>
+      <link>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replicated Synchronization for Imperative BSP Programs</title>
+      <link>https://sserl.github.io/publication/dblp-conficc-s-jakobsson-dblh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficc-s-jakobsson-dblh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Verified Parallel Implementation of Frequent Itemset Mining</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-whitney-l-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-whitney-l-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A CHR-Based Solver for Weak Memory Behaviors</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-blanchard-kl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-blanchard-kl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conc2Seq: A Frama-C Plugin for Verification of Parallel Compositions of C Programs</title>
+      <link>https://sserl.github.io/publication/dblp-confscam-blanchard-kll-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confscam-blanchard-kll-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

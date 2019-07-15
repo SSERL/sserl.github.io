@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriele Bavota on SSERL</title>
+    <link>https://sserl.github.io/authors/gabriele-bavota/</link>
+    <description>Recent content in Gabriele Bavota on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/gabriele-bavota/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code smells for Model-View-Controller architectures</title>
+      <link>https://sserl.github.io/publication/dblp-journalsese-aniche-btgd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsese-aniche-btgd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-demand Developer Documentation</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-robillard-mtbceg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-robillard-mtbceg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Validated Set of Smells in Model-View-Controller Architectures</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-aniche-btdg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-aniche-btdg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

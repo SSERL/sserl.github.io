@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toby Dylan Hocking (Northern Arizona University) on SSERL</title>
+    <link>https://sserl.github.io/authors/toby-dylan-hocking-northern-arizona-university/</link>
+    <description>Recent content in Toby Dylan Hocking (Northern Arizona University) on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 15:46:48 -0700</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/toby-dylan-hocking-northern-arizona-university/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing NamedCapture With Other R Packages for Regular Expressions</title>
+      <link>https://sserl.github.io/talk/comparing-namedcapture-with-other-r-packages-for-regular-expressions/</link>
+      <pubDate>Thu, 28 Feb 2019 15:46:48 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/comparing-namedcapture-with-other-r-packages-for-regular-expressions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Aurélio Gerosa on SSERL</title>
+    <link>https://sserl.github.io/authors/marco-aurelio-gerosa/</link>
+    <description>Recent content in Marco Aurélio Gerosa on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/marco-aurelio-gerosa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How should my chatbot interact? A survey on human-chatbot interaction design</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1904-02743/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1904-02743/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let Me In: Guidelines for the Successful Onboarding of Newcomers to Open Source Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalssoftware-steinmacher-tg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssoftware-steinmacher-tg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming Social Barriers When Contributing to Open Source Software Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalscscw-steinmacher-gcr-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscscw-steinmacher-gcr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedagogical Content for Professors of Introductory Programming Courses</title>
+      <link>https://sserl.github.io/publication/dblp-confiticse-bosse-rg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confiticse-bosse-rg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should I stale or should I close?: an analysis of a bot that closes abandoned issues and pull requests</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-wessel-swg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-wessel-swg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why do developers take breaks from contributing to OSS projects? A preliminary analysis</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1903-09528/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1903-09528/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almost there: a study on quasi-contributors in open source software projects</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code smells for Model-View-Controller architectures</title>
+      <link>https://sserl.github.io/publication/dblp-journalsese-aniche-btgd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsese-aniche-btgd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How modern news aggregators help development communities shape and share knowledge</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of coding practices on readability</title>
+      <link>https://sserl.github.io/publication/dblp-confiwpc-santos-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confiwpc-santos-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaving Behind the Software History When Transitioning to Open Source: Reasons and Implications</title>
+      <link>https://sserl.github.io/publication/dblp-confoss-0001-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confoss-0001-sg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newcomers&#39; Barriers. . . Is That All? An Analysis of Mentors&#39; and Newcomers&#39; Barriers in OSS Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalscscw-balali-sasg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscscw-balali-sasg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the challenges of open-sourcing proprietary software projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalsese-pinto-sdg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsese-pinto-sdg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations Between Actions Performed by Users and Their Engagement</title>
+      <link>https://sserl.github.io/publication/dblp-confcriwg-bertholdo-mrg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confcriwg-bertholdo-mrg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single or Multiple Conversational Agents?: An Interactional Coherence Comparison</title>
+      <link>https://sserl.github.io/publication/dblp-confchi-chaves-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confchi-chaves-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture</title>
+      <link>https://sserl.github.io/publication/dblp-journalscsur-santana-cgkm-17/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscsur-santana-cgkm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Bots: Characterizing and Understanding Bots in OSS Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalspacmhci-wessel-sswpcg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalspacmhci-wessel-sswpcg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User engagement in an open collaboration community after the insertion of a game design element: An online field experiment</title>
+      <link>https://sserl.github.io/publication/dblp-confamcis-bertholdo-mrgo-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confamcis-bertholdo-mrgo-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Awareness Information to Enhance Online Discussion Forums: A Systematic Mapping Study</title>
+      <link>https://sserl.github.io/publication/dblp-conffie-lima-gn-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conffie-lima-gn-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Long and How Much: What to Expect from Summer of Code Participants?</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-demand Developer Documentation</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-robillard-mtbceg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-robillard-mtbceg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students&#39; Engagement in Open Source Projects: An Analysis of Google Summer of Code</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-silva-wsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-silva-wsg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Software Engineers Using Open-Source Software: The Professors&#39; Perspective</title>
+      <link>https://sserl.github.io/publication/dblp-confcsee-pinto-fsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confcsee-pinto-fsg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweaking Association Rules to Optimize Software Change Recommendations</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Gamification to Orient and Motivate Students to Contribute to OSS Projects</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-diniz-sgs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-diniz-sgs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using contextual information to predict co-changes</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Static Change Impact Analysis Approach based on Metrics and Visualizations to Support the Evolution of Workflow Repositories</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjwsr-oliva-gksm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjwsr-oliva-gksm-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Validated Set of Smells in Model-View-Controller Architectures</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-aniche-btdg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-aniche-btdg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile Usability Patterns for User-Centered Design Final Stages</title>
+      <link>https://sserl.github.io/publication/dblp-confhci-bertholdo-kg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confhci-bertholdo-kg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration technology in teams and organizations: Introduction to the special issue</title>
+      <link>https://sserl.github.io/publication/dblp-journalsisf-vreede-avgw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsisf-vreede-avgw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers&#39; Perceptions on Object-Oriented Design and Architectural Roles</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-aniche-gt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-aniche-gt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does the Shift to GitHub Impact Project Collaboration?</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-dias-spcg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-dias-spcg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Common Than You Think: An In-depth Study of Casual Contributors</title>
+      <link>https://sserl.github.io/publication/dblp-confwcre-pinto-sg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confwcre-pinto-sg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming open source project entry barriers with a portal for newcomers</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-steinmacher-ctg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-steinmacher-ctg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Engagement in Open Collaboration Communities by Means of Gamification</title>
+      <link>https://sserl.github.io/publication/dblp-confhci-bertholdo-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confhci-bertholdo-g-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SATT: Tailoring Code Metric Thresholds for Different Software Architectures</title>
+      <link>https://sserl.github.io/publication/dblp-confscam-aniche-tzdg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confscam-aniche-tzdg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-santana-cgkm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-santana-cgkm-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training the future workforce through task curation in an OSS ecosystem</title>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-sarma-gsl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-sarma-gsl-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual programming and automatic evaluation of exercises: An experience with a STEM course</title>
+      <link>https://sserl.github.io/publication/dblp-conffie-brandao-bg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conffie-brandao-bg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who is Who in the Mailing List? Comparing Six Disambiguation Heuristics to Identify Multiple Addresses of a Participant</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-wiese-sstg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-wiese-sstg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is programming so difficult to learn?: Patterns of Difficulties Related to Programming Learning Mid-Stage</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-bosse-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-bosse-g-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

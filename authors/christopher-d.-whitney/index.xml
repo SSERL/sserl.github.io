@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher D. Whitney on SSERL</title>
+    <link>https://sserl.github.io/authors/christopher-d.-whitney/</link>
+    <description>Recent content in Christopher D. Whitney on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/christopher-d.-whitney/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Verified Programs for Frequent Itemset Mining</title>
+      <link>https://sserl.github.io/publication/dblp-confuic-loulergue-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confuic-loulergue-w-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Verified Parallel Implementation of Frequent Itemset Mining</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-whitney-l-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-whitney-l-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

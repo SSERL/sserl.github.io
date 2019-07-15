@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Groce on SSERL</title>
+    <link>https://sserl.github.io/authors/alex-groce/</link>
+    <description>Recent content in Alex Groce on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/alex-groce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An extensible, regular-expression-based tool for multi-language mutant generation</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Distance-Metric-Based Assistance for Debugging after Compiler Fuzzing</title>
+      <link>https://sserl.github.io/publication/dblp-confissre-holmes-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissre-holmes-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How verified (or tested) is my code? Falsification-driven verification and testing</title>
+      <link>https://sserl.github.io/publication/dblp-journalsase-groce-ajmh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsase-groce-ajmh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduce Before You Localize: Delta-Debugging and Spectrum-Based Fault Localization</title>
+      <link>https://sserl.github.io/publication/dblp-confissre-christi-oag-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissre-christi-oag-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSTL: the template scripting testing language</title>
+      <link>https://sserl.github.io/publication/dblp-journalssttt-holmes-gpmako-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssttt-holmes-gpmako-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target Selection for Test-Based Resource Adaptation</title>
+      <link>https://sserl.github.io/publication/dblp-confqrs-christi-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confqrs-christi-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: DeepState: Bringing Vulnerability Detection Tools into the Development Cycle</title>
+      <link>https://sserl.github.io/publication/dblp-confsecdev-goodman-gg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsecdev-goodman-gg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A suite of tools for making effective use of automatically generated tests</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-holmes-g-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-holmes-g-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Mutation Analysis on Kernel Test Suites: An Experience Report</title>
+      <link>https://sserl.github.io/publication/dblp-conficst-ahmed-jgm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficst-ahmed-jgm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does choice of mutation tool matter?</title>
+      <link>https://sserl.github.io/publication/dblp-journalssqj-gopinath-aajg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssqj-gopinath-aajg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation Reduction Strategies Considered Harmful</title>
+      <link>https://sserl.github.io/publication/dblp-journalstr-gopinath-aajg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalstr-gopinath-aajg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One test to rule them all</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-groce-hk-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-groce-hk-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance and Pseudo-Provenance for Seeded Learning-Based Automated Test Generation</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1711-01661/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1711-01661/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Adaptation via Test-Based Software Minimization</title>
+      <link>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Theory of Composite Faults</title>
+      <link>https://sserl.github.io/publication/dblp-conficst-gopinath-jg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficst-gopinath-jg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method Dependence Relations Guided Genetic Algorithm</title>
+      <link>https://sserl.github.io/publication/dblp-confssbse-aburas-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confssbse-aburas-g-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounded Model Checking and Feature Omission Diversity</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can testedness be effectively measured?</title>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-ahmed-gbgj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-ahmed-gbgj-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cause reduction: delta debugging, even without bugs</title>
+      <link>https://sserl.github.io/publication/dblp-journalsstvr-groce-azcr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsstvr-groce-azcr-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Poisoning: Lightweight Soft Fault Injection for Python</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating non-adequate test-case reduction</title>
+      <link>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Model-Checkable Needles in Large Source Code Haystacks: Modular Bug-Finding via Static Analysis and Dynamic Invariant Discovery</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-alipour-gzsc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-alipour-gzsc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating focused random tests using directed swarm testing</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Effectiveness of Mutant Sets</title>
+      <link>https://sserl.github.io/publication/dblp-conficst-gopinath-aajg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficst-gopinath-aajg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating (and exploiting) test reduction slippage</title>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-holmes-ga-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-holmes-ga-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the limits of mutation reduction strategies</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-gopinath-aajg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-gopinath-aajg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-e/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topsy-Turvy: a smarter and faster parallelization of mutation analysis</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-gopinath-jg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-gopinath-jg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

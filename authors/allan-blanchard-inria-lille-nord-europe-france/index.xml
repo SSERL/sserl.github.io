@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allan Blanchard (Inria Lille Nord Europe, France) on SSERL</title>
+    <link>https://sserl.github.io/authors/allan-blanchard-inria-lille-nord-europe-france/</link>
+    <description>Recent content in Allan Blanchard (Inria Lille Nord Europe, France) on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 16:44:27 -0700</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/allan-blanchard-inria-lille-nord-europe-france/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial   Towards Reliable Things: Formal Verification of IoT Software With Frama C</title>
+      <link>https://sserl.github.io/talk/tutorial-towards-reliable-things-formal-verification-of-iot-software-with-frama-c/</link>
+      <pubDate>Tue, 20 Nov 2018 16:44:27 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/tutorial-towards-reliable-things-formal-verification-of-iot-software-with-frama-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Formal Methods to the Contiki Operating System</title>
+      <link>https://sserl.github.io/talk/applying-formal-methods-to-the-contiki-operating-system/</link>
+      <pubDate>Tue, 20 Nov 2018 16:41:30 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/applying-formal-methods-to-the-contiki-operating-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

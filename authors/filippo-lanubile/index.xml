@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filippo Lanubile on SSERL</title>
+    <link>https://sserl.github.io/authors/filippo-lanubile/</link>
+    <description>Recent content in Filippo Lanubile on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/filippo-lanubile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why do developers take breaks from contributing to OSS projects? A preliminary analysis</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1903-09528/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1903-09528/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

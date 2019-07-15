@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A on SSERL</title>
+    <link>https://sserl.github.io/tags/a/</link>
+    <description>Recent content in A on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 -0700</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jolan Philippe</title>
+      <link>https://sserl.github.io/members/graduate/jp2589/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/members/graduate/jp2589/</guid>
+      <description>&lt;p&gt;Jolan Philippe obtained his Master&amp;rsquo;s degree at NAU in May 2019.  His
+SSERL advisor was &lt;a href=&#34;https://frederic.loulergue.eu&#34; target=&#34;_blank&#34;&gt;Frédéric Loulergue&lt;/a&gt;.
+He is now a PhD student at IMT Atlantique, Nantes, France.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arvid Jakobsson</title>
+      <link>https://sserl.github.io/members/graduate/arvid_jakobsson/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/members/graduate/arvid_jakobsson/</guid>
+      <description>&lt;p&gt;Arvid Jakobsson was a Phd student at the Université d&amp;rsquo;Orléans, France,
+and he is also working for Huawei Technologies France.  His SSERL
+advisor was &lt;a href=&#34;https://frederic.loulergue.eu&#34; target=&#34;_blank&#34;&gt;Frédéric Loulergue&lt;/a&gt;, and he
+was co-advised by Wadoud Bousdira and Frédéric Dabrowski at the
+Université d&amp;rsquo;Orléans, and Gaétan Hains and Wijnand Suijlen at Huawei
+Technologies France. His research is focused on the static analysis of
+scalable parallel programs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thibaut Tachon</title>
+      <link>https://sserl.github.io/members/graduate/thibaut_tachon/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/members/graduate/thibaut_tachon/</guid>
+      <description>&lt;p&gt;Thibaut Tachon was a Phd student at the Université d&amp;rsquo;Orléans, France,
+and he was also working for Huawei Technologies France.  His SSERL
+advisor was &lt;a href=&#34;https://frederic.loulergue.eu&#34; target=&#34;_blank&#34;&gt;Frédéric Loulergue&lt;/a&gt;, and
+he was co-advised by Gaétan Hains at Huawei Technologies France. His
+research is focused on the bulk synchronous parallel automata
+formalism and a DSL for neural networks. He is now a research
+engineering at Huawei Technologies France.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kevin Gonzalez Castro</title>
+      <link>https://sserl.github.io/members/undergraduate/kag483/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/members/undergraduate/kag483/</guid>
+      <description>&lt;p&gt;Kevin Gonzalez Castro was an undergraduate research assistant at
+&lt;a href=&#34;https://nau.edu&#34; target=&#34;_blank&#34;&gt;Northern Arizona University&lt;/a&gt;.  He worked with
+&lt;a href=&#34;https://frederic.loulergue.eu&#34; target=&#34;_blank&#34;&gt;Frédéric Loulergue&lt;/a&gt; on a domain
+specific language (DSL) for large-scale graph processing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

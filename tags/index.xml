@@ -4,13 +4,22 @@
     <title>Tags on SSERL</title>
     <link>https://sserl.github.io/tags/</link>
     <description>Recent content in Tags on SSERL</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Fri, 26 Oct 2018 12:30:00 -0700</lastBuildDate>
     
-	<atom:link href="https://sserl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sserl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C</title>
+      <link>https://sserl.github.io/tags/c/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/tags/c/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Faculty</title>
@@ -22,20 +31,20 @@
     </item>
     
     <item>
+      <title>A</title>
+      <link>https://sserl.github.io/tags/a/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/tags/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Grad</title>
       <link>https://sserl.github.io/tags/grad/</link>
       <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>https://sserl.github.io/tags/grad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UG</title>
-      <link>https://sserl.github.io/tags/ug/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/tags/ug/</guid>
       <description></description>
     </item>
     

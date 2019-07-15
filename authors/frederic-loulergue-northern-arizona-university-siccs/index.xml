@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Loulergue (Northern Arizona University, SICCS) on SSERL</title>
+    <link>https://sserl.github.io/authors/frederic-loulergue-northern-arizona-university-siccs/</link>
+    <description>Recent content in Frédéric Loulergue (Northern Arizona University, SICCS) on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 16:44:27 -0700</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/frederic-loulergue-northern-arizona-university-siccs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial   Towards Reliable Things: Formal Verification of IoT Software With Frama C</title>
+      <link>https://sserl.github.io/talk/tutorial-towards-reliable-things-formal-verification-of-iot-software-with-frama-c/</link>
+      <pubDate>Tue, 20 Nov 2018 16:44:27 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/tutorial-towards-reliable-things-formal-verification-of-iot-software-with-frama-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

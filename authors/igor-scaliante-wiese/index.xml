@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Scaliante Wiese on SSERL</title>
+    <link>https://sserl.github.io/authors/igor-scaliante-wiese/</link>
+    <description>Recent content in Igor Scaliante Wiese on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/igor-scaliante-wiese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Almost there: a study on quasi-contributors in open source software projects</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the hyperspecialists in the context of crowdsourcing software development</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjbcs-neira-sw-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjbcs-neira-sw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Bots: Characterizing and Understanding Bots in OSS Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalspacmhci-wessel-sswpcg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalspacmhci-wessel-sswpcg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Long and How Much: What to Expect from Summer of Code Participants?</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students&#39; Engagement in Open Source Projects: An Analysis of Google Summer of Code</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-silva-wsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-silva-wsg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweaking Association Rules to Optimize Software Change Recommendations</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using contextual information to predict co-changes</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who is Who in the Mailing List? Comparing Six Disambiguation Heuristics to Identify Multiple Addresses of a Participant</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-wiese-sstg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-wiese-sstg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

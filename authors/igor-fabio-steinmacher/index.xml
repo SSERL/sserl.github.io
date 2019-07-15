@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Fabio Steinmacher on SSERL</title>
+    <link>https://sserl.github.io/authors/igor-fabio-steinmacher/</link>
+    <description>Recent content in Igor Fabio Steinmacher on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/igor-fabio-steinmacher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Long and How Much: What to Expect from Summer of Code Participants?</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is It Better to Learn from Problems or Erroneous Examples?</title>
+      <link>https://sserl.github.io/publication/dblp-confcsee-silva-sc-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confcsee-silva-sc-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hélène Coullon (IMT Atlantique &amp; Inria, France) on SSERL</title>
+    <link>https://sserl.github.io/authors/helene-coullon-imt-atlantique-inria-france/</link>
+    <description>Recent content in Hélène Coullon (IMT Atlantique &amp; Inria, France) on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 16:39:09 -0700</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/helene-coullon-imt-atlantique-inria-france/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toward Software Engineering Mechanisms Applied to High Performance Computing and Distributed Systems</title>
+      <link>https://sserl.github.io/talk/toward-software-engineering-mechanisms-applied-to-high-performance-computing-and-distributed-systems/</link>
+      <pubDate>Tue, 20 Nov 2018 16:39:09 -0700</pubDate>
+      
+      <guid>https://sserl.github.io/talk/toward-software-engineering-mechanisms-applied-to-high-performance-computing-and-distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

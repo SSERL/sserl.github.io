@@ -4,974 +4,1136 @@
     <title>Publications on SSERL</title>
     <link>https://sserl.github.io/publication/</link>
     <description>Recent content in Publications on SSERL</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sserl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sserl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Cloud Brokerage Solution: Formal Methods Meet   Security in Cloud Federations</title>
-      <link>https://sserl.github.io/publication/sbl2018_hpcs.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>How should my chatbot interact? A survey on human-chatbot interaction design</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1904-02743/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/sbl2018_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1904-02743/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Lesson on Verification of IoT Software with   Frama-C</title>
-      <link>https://sserl.github.io/publication/bkl2018_hpcs.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Let Me In: Guidelines for the Successful Onboarding of Newcomers to Open Source Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalssoftware-steinmacher-tg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/bkl2018_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssoftware-steinmacher-tg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logic against ghosts: comparison of two proof approaches for a list module</title>
+      <link>https://sserl.github.io/publication/dblp-confsac-blanchard-kl-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsac-blanchard-kl-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming Social Barriers When Contributing to Open Source Software Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalscscw-steinmacher-gcr-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscscw-steinmacher-gcr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel programming with Coq: map and reduce skeletons on trees</title>
+      <link>https://sserl.github.io/publication/dblp-confsac-philippe-l-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsac-philippe-l-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedagogical Content for Professors of Introductory Programming Courses</title>
+      <link>https://sserl.github.io/publication/dblp-confiticse-bosse-rg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confiticse-bosse-rg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should I stale or should I close?: an analysis of a bot that closes abandoned issues and pull requests</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-wessel-swg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-wessel-swg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Full Proof Automation in Frama-C Using Auto-active Verification</title>
+      <link>https://sserl.github.io/publication/dblp-confnfm-blanchard-lk-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confnfm-blanchard-lk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training software engineers using open-source software: the students&#39; perspective</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-0001-fssm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-0001-fssm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Attracts Newcomers to Onboard on OSS Projects? TL;DR: Popularity</title>
+      <link>https://sserl.github.io/publication/dblp-confoss-fronchetti-w-0-s-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confoss-fronchetti-w-0-s-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why do developers take breaks from contributing to OSS projects? A preliminary analysis</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1903-09528/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1903-09528/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cloud Brokerage Solution: Formal Methods Meet Security in Cloud Federations</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-bl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-bl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Gamification Proposal to Support the Onboarding of Newcomers in the FLOSScoach Portal</title>
+      <link>https://sserl.github.io/publication/dblp-confihc-toscani-gsm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confihc-toscani-gsm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lesson on Verification of IoT Software with Frama-C</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-blanchard-kl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Almost there: a study on quasi-contributors in open source software projects</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_steinmacher0wg18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An empirical study on task documentation in software crowdsourcing: the case of the topcoder platform</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_vazms18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-vaz-ms-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_vazms18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-vaz-ms-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An extensible, regular-expression-based tool for multi-language mutant generation</title>
-      <link>https://sserl.github.io/publication/grocehmsz18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/grocehmsz18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Distance-Metric-Based Assistance for Debugging after Compiler Fuzzing</title>
+      <link>https://sserl.github.io/publication/dblp-confissre-holmes-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissre-holmes-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the hyperspecialists in the context of crowdsourcing software development</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjbcs-neira-sw-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjbcs-neira-sw-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Code smells for Model-View-Controller architectures</title>
-      <link>https://sserl.github.io/publication/dblp_journals_ese_anichebtgd18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsese-aniche-btgd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_ese_anichebtgd18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsese-aniche-btgd-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Competence, Collaboration, and Time Management: Barriers and Recommendations for Crowdworkers</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_zanattams18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-zanatta-ms-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_zanattams18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-zanatta-ms-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ghosts for Lists: A Critical Module of Contiki   Verified in Frama-C</title>
-      <link>https://sserl.github.io/publication/bkl2018_nfm.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Ghosts for Lists: A Critical Module of Contiki Verified in Frama-C</title>
+      <link>https://sserl.github.io/publication/dblp-confnfm-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/bkl2018_nfm.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confnfm-blanchard-kl-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ghosts for Lists: from Axiomatic to Executable   Specifications</title>
-      <link>https://sserl.github.io/publication/lbk2018_tap.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Ghosts for Lists: From Axiomatic to Executable Specifications</title>
+      <link>https://sserl.github.io/publication/dblp-conftap-loulergue-bk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lbk2018_tap.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conftap-loulergue-bk-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How modern news aggregators help development communities shape and share knowledge</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_anichetsw0sg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_anichetsw0sg18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How verified (or tested) is my code? Falsification-driven verification and testing</title>
-      <link>https://sserl.github.io/publication/groceajmh18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsase-groce-ajmh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groceajmh18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsase-groce-ajmh-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impacts of coding practices on readability</title>
-      <link>https://sserl.github.io/publication/dblp_conf_iwpc_santosg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confiwpc-santos-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_iwpc_santosg18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confiwpc-santos-g-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Interactive Bulk Synchronous Parallel Functional   Programming in a Browser</title>
-      <link>https://sserl.github.io/publication/tl2018_atc.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Interactive Bulk Synchronous Parallel Functional Programming in a Browser</title>
+      <link>https://sserl.github.io/publication/dblp-confuic-tesson-l-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/tl2018_atc.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confuic-tesson-l-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leaving Behind the Software History When Transitioning to Open Source: Reasons and Implications</title>
-      <link>https://sserl.github.io/publication/dblp_conf_oss_0001sg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confoss-0001-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_oss_0001sg18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confoss-0001-sg-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MMFilter: A CHR-Based Solver for Generation of   Executions under Weak Memory Models</title>
-      <link>https://sserl.github.io/publication/bkl2018_comlan.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>MMFilter : A CHR-Based Solver for Generation of Executions under Weak Memory Models</title>
+      <link>https://sserl.github.io/publication/dblp-journalscl-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/bkl2018_comlan.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscl-blanchard-kl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Newcomers&#39; Barriers. . . Is That All? An Analysis of Mentors&#39; and Newcomers&#39; Barriers in OSS Projects</title>
-      <link>https://sserl.github.io/publication/dblp_journals_cscw_balalisasg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalscscw-balali-sasg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_cscw_balalisasg18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscscw-balali-sasg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the challenges of open-sourcing proprietary software projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalsese-pinto-sdg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsese-pinto-sdg-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Programming with OCaml: A Tutorial</title>
-      <link>https://sserl.github.io/publication/abl2018_hpcs.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-allombert-bl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/abl2018_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-allombert-bl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passages</title>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduce Before You Localize: Delta-Debugging and Spectrum-Based Fault Localization</title>
+      <link>https://sserl.github.io/publication/dblp-confissre-christi-oag-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissre-christi-oag-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relations Between Actions Performed by Users and Their Engagement</title>
-      <link>https://sserl.github.io/publication/dblp_conf_criwg_bertholdomrg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confcriwg-bertholdo-mrg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_criwg_bertholdomrg18.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure Your Things: Secure Development of IoT   Software with Frama-C</title>
-      <link>https://sserl.github.io/publication/bkl2018_secdev.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/bkl2018_secdev.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confcriwg-bertholdo-mrg-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single or Multiple Conversational Agents?: An Interactional Coherence Comparison</title>
-      <link>https://sserl.github.io/publication/dblp_conf_chi_chavesg18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confchi-chaves-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_chi_chavesg18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confchi-chaves-g-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Soundness of a Dataflow Analysis for Memory   Monitoring</title>
-      <link>https://sserl.github.io/publication/lkl2018_hilt.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture</title>
+      <link>https://sserl.github.io/publication/dblp-journalscsur-santana-cgkm-17/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lkl2018_hilt.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscsur-santana-cgkm-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Strong Security Guarantees: from Alloy to Coq   (Poster)</title>
-      <link>https://sserl.github.io/publication/sl2018_hpcs.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Strong Security Guarantees: From Alloy to Coq (Research Poster)</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-l-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/sl2018_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-souaf-l-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TSTL: the template scripting testing language</title>
-      <link>https://sserl.github.io/publication/holmesgpmako18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssttt-holmes-gpmako-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/holmesgpmako18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssttt-holmes-gpmako-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Target Selection for Test-Based Resource Adaptation</title>
-      <link>https://sserl.github.io/publication/christig18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confqrs-christi-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/christig18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confqrs-christi-g-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards the Generation of Correct Java Programs   (Poster)</title>
-      <link>https://sserl.github.io/publication/pl2018_hpcs.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>The Power of Bots: Characterizing and Understanding Bots in OSS Projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalspacmhci-wessel-sswpcg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/pl2018_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalspacmhci-wessel-sswpcg-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transforming Powerlist Based Divide&amp;Conquer   Programs for an Improved Execution Model</title>
-      <link>https://sserl.github.io/publication/nl2018_hlpp.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <title>Towards the Generation of Correct Java Programs (Research Poster)</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-l-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/nl2018_hlpp.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-l-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: DeepState: Bringing Vulnerability Detection Tools into the Development Cycle</title>
+      <link>https://sserl.github.io/publication/dblp-confsecdev-goodman-gg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsecdev-goodman-gg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Secure Your Things: Secure Development of IoT Software with Frama-C</title>
+      <link>https://sserl.github.io/publication/dblp-confsecdev-blanchard-kl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsecdev-blanchard-kl-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>User engagement in an open collaboration community after the insertion of a game design element: An online field experiment</title>
-      <link>https://sserl.github.io/publication/dblp_conf_amcis_bertholdomrgo18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confamcis-bertholdo-mrgo-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_amcis_bertholdomrgo18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confamcis-bertholdo-mrgo-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Awareness Information to Enhance Online Discussion Forums: A Systematic Mapping Study</title>
+      <link>https://sserl.github.io/publication/dblp-conffie-lima-gn-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conffie-lima-gn-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verified Programs for Frequent Itemset Mining</title>
-      <link>https://sserl.github.io/publication/lw2018_atc.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confuic-loulergue-w-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lw2018_atc.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confuic-loulergue-w-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What are the differences between group and individual modeling when learning UML?</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_silvagsc18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-silva-gsc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_silvagsc18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-silva-gsc-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When students become contributors: leveraging OSS contributions in software engineering courses</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_ferreiras0sm18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-ferreira-s-0-sm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_ferreiras0sm18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-ferreira-s-0-sm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who drives company-owned OSS projects: internal or external members?</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjbcs-dias-sp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjbcs-dias-sp-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who gets a patch accepted first?: comparing the contributions of employees and volunteers</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_0001ds18.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-0001-ds-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_0001ds18.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-0001-ds-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A BSPlib-style API for Bulk Synchronous Parallel ML</title>
+      <link>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Java Framework for High Level Parallel Programming Using Powerlists</title>
+      <link>https://sserl.github.io/publication/dblp-confpdcat-niculescu-lbs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confpdcat-niculescu-lbs-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Verified Accumulate Algorithmic Skeleton</title>
-      <link>https://sserl.github.io/publication/lou2017_candar.bib/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confic-nc-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lou2017_candar.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A BSPlib-style API for Bulk Synchronous  Parallel ML</title>
-      <link>https://sserl.github.io/publication/lou2017_scpe.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/lou2017_scpe.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Java Framework for High Level Parallel  Programming using Powerlists</title>
-      <link>https://sserl.github.io/publication/nlb2017_pdcat.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/nlb2017_pdcat.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confic-nc-loulergue-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A suite of tools for making effective use of automatically generated tests</title>
-      <link>https://sserl.github.io/publication/holmesg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confissta-holmes-g-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/holmesg17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confissta-holmes-g-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Mutation Analysis on Kernel Test Suites: An Experience Report</title>
-      <link>https://sserl.github.io/publication/ahmedjgm17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficst-ahmed-jgm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/ahmedjgm17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficst-ahmed-jgm-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Automated generation of BSP automata</title>
-      <link>https://sserl.github.io/publication/thl2017_ppl.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Automated Generation of BSP Automata</title>
+      <link>https://sserl.github.io/publication/dblp-journalsppl-tachon-lhl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/thl2017_ppl.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsppl-tachon-lhl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barriers Faced by Newcomers to Software-Crowdsourcing Projects</title>
-      <link>https://sserl.github.io/publication/dblp_journals_software_zanattasmsp17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssoftware-zanatta-smsp-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_software_zanattasmsp17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssoftware-zanatta-smsp-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Calculating Parallel Programs in Coq using List  Homomorphisms</title>
-      <link>https://sserl.github.io/publication/lbt2015_ijpp.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Calculating Parallel Programs in Coq Using List Homomorphisms</title>
+      <link>https://sserl.github.io/publication/dblp-journalsijpp-loulergue-bt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lbt2015_ijpp.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Concurrent Program Verification by Code  Transformation: Correctness</title>
-      <link>https://sserl.github.io/publication/bkl2017_rr.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/bkl2017_rr.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsijpp-loulergue-bt-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does choice of mutation tool matter?</title>
-      <link>https://sserl.github.io/publication/gopinathaajg17a.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssqj-gopinath-aajg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/gopinathaajg17a.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssqj-gopinath-aajg-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Formalization of a Big Graph API in Coq (Poster)</title>
-      <link>https://sserl.github.io/publication/plb2017_hpcs.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Formalization of a Big Graph API in Coq</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-bl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/plb2017_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-philippe-bl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Free and open source software development: the end of the teenage years</title>
-      <link>https://sserl.github.io/publication/dblp_journals_jisa_steinmacherrfw17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsjisa-steinmacher-rfw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_jisa_steinmacherrfw17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsjisa-steinmacher-rfw-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>From Concurrent Programs to Simulating Sequential  Programs: Correctness of a Transformation</title>
-      <link>https://sserl.github.io/publication/blk2017_vpt.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>From Concurrent Programs to Simulating Sequential Programs: Correctness of a Transformation</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1708-07226/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/blk2017_vpt.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1708-07226/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Long and How Much: What to Expect from Summer of Code Participants?</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icsm_silvawgsg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icsm_silvawgsg17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficsm-silva-wgsg-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Imperative BSPlib-style Communications in Bulk  Synchronous Parallel ML</title>
-      <link>https://sserl.github.io/publication/lou2017_iccs.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Imperative BSPlib-style Communications in BSML</title>
+      <link>https://sserl.github.io/publication/dblp-conficc-s-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lou2017_iccs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficc-s-loulergue-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Implementing Algorithmic Skeletons with Bulk  Synchronous Parallel ML</title>
-      <link>https://sserl.github.io/publication/lou2017_pdcat.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Implementing Algorithmic Skeletons with Bulk Synchronous Parallel ML</title>
+      <link>https://sserl.github.io/publication/dblp-confpdcat-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/lou2017_pdcat.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confpdcat-loulergue-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to the Special Issue on Practical Aspects of High-Level Parallel Programming</title>
+      <link>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsscpe-loulergue-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is It Better to Learn from Problems or Erroneous Examples?</title>
-      <link>https://sserl.github.io/publication/dblp_conf_csee_silvasc17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confcsee-silva-sc-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_csee_silvasc17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confcsee-silva-sc-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutation Reduction Strategies Considered Harmful</title>
-      <link>https://sserl.github.io/publication/gopinathaajg17b.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalstr-gopinath-aajg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/gopinathaajg17b.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalstr-gopinath-aajg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-demand Developer Documentation</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icsm_robillardmtbceg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficsm-robillard-mtbceg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icsm_robillardmtbceg17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficsm-robillard-mtbceg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One test to rule them all</title>
-      <link>https://sserl.github.io/publication/grocehk17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confissta-groce-hk-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/grocehk17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confissta-groce-hk-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce17a.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce17a.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce17b.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce17b.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Provenance and Pseudo-Provenance for Seeded Learning-Based Automated Test Generation</title>
-      <link>https://sserl.github.io/publication/abs-1711-01661.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1711-01661/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/abs-1711-01661.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1711-01661/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Replicated Synchronization for Imperative BSP  Programs</title>
-      <link>https://sserl.github.io/publication/jdb2017_iccs.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Replicated Synchronization for Imperative BSP Programs</title>
+      <link>https://sserl.github.io/publication/dblp-conficc-s-jakobsson-dblh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/jdb2017_iccs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficc-s-jakobsson-dblh-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resource Adaptation via Test-Based Software Minimization</title>
-      <link>https://sserl.github.io/publication/christigg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/christigg17.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture</title>
-      <link>https://sserl.github.io/publication/dblp_journals_csur_santanacgkm17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/dblp_journals_csur_santanacgkm17.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Special Issue on Practical Aspects of High-Level  Parallel Programming</title>
-      <link>https://sserl.github.io/publication/lou2017a_scpe.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/lou2017a_scpe.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Students&#39; Engagement in Open Source Projects: An Analysis of Google Summer of Code</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_silvawsg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-silva-wsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_silvawsg17.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systematic Development of Programs for Scalable  Computing Using Coq (Tutorial)</title>
-      <link>https://sserl.github.io/publication/lou2017_hpcs.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/lou2017_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-silva-wsg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Theory of Composite Faults</title>
-      <link>https://sserl.github.io/publication/gopinathjg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficst-gopinath-jg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/gopinathjg17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficst-gopinath-jg-17/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards a Verified Parallel Implementation of  Frequent Itemset Mining (Poster)</title>
-      <link>https://sserl.github.io/publication/wl2017_hpcs.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <title>Towards a Verified Parallel Implementation of Frequent Itemset Mining</title>
+      <link>https://sserl.github.io/publication/dblp-confieeehpcs-whitney-l-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/wl2017_hpcs.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confieeehpcs-whitney-l-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training Software Engineers Using Open-Source Software: The Professors&#39; Perspective</title>
-      <link>https://sserl.github.io/publication/dblp_conf_csee_pintofsg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confcsee-pinto-fsg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_csee_pintofsg17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confcsee-pinto-fsg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweaking Association Rules to Optimize Software Change Recommendations</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_wesselaogw17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_wesselaogw17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-wessel-aogw-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Gamification to Orient and Motivate Students to Contribute to OSS Projects</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_dinizsgs17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-diniz-sgs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_dinizsgs17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-diniz-sgs-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using contextual information to predict co-changes</title>
-      <link>https://sserl.github.io/publication/dblp_journals_jss_wieserskotg17.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_jss_wieserskotg17.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsjss-wiese-rskotg-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A CHR-Based Solver for Weak Memory Behaviors</title>
-      <link>https://sserl.github.io/publication/bkl2016_cstva.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confissta-blanchard-kl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/bkl2016_cstva.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confissta-blanchard-kl-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Method Dependence Relations Guided Genetic Algorithm</title>
-      <link>https://sserl.github.io/publication/aburasg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confssbse-aburas-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/aburasg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confssbse-aburas-g-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Static Change Impact Analysis Approach based on Metrics and Visualizations to Support the Evolution of Workflow Repositories</title>
-      <link>https://sserl.github.io/publication/dblp_journals_jwsr_olivagksm16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsjwsr-oliva-gksm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_jwsr_olivagksm16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsjwsr-oliva-gksm-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Validated Set of Smells in Model-View-Controller Architectures</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icsm_anichebtdg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficsm-aniche-btdg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icsm_anichebtdg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficsm-aniche-btdg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agile Usability Patterns for User-Centered Design Final Stages</title>
-      <link>https://sserl.github.io/publication/dblp_conf_hci_bertholdokg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confhci-bertholdo-kg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_hci_bertholdokg16.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automated generation of BSP automata</title>
-      <link>https://sserl.github.io/publication/thl2016_hlpp.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/thl2016_hlpp.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confhci-bertholdo-kg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bounded Model Checking and Feature Omission Diversity</title>
-      <link>https://sserl.github.io/publication/alipourg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/alipourg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can testedness be effectively measured?</title>
-      <link>https://sserl.github.io/publication/ahmedgbgj16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-ahmed-gbgj-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/ahmedgbgj16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-ahmed-gbgj-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cause reduction: delta debugging, even without bugs</title>
-      <link>https://sserl.github.io/publication/groceazcr16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsstvr-groce-azcr-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groceazcr16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsstvr-groce-azcr-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboration technology in teams and organizations: Introduction to the special issue</title>
-      <link>https://sserl.github.io/publication/dblp_journals_isf_vreedeavgw16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalsisf-vreede-avgw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_isf_vreedeavgw16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalsisf-vreede-avgw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conc2Seq: A Frama-C Plugin for Verification of Parallel Compositions of C Programs</title>
+      <link>https://sserl.github.io/publication/dblp-confscam-blanchard-kll-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confscam-blanchard-kll-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Poisoning: Lightweight Soft Fault Injection for Python</title>
-      <link>https://sserl.github.io/publication/alipourg16a.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/alipourg16a.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-alipour-g-16-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developers&#39; Perceptions on Object-Oriented Design and Architectural Roles</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_anichegt16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-aniche-gt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_anichegt16.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development of Correct-by-Construction Functional  Parallel Programs (Tutorial)</title>
-      <link>https://sserl.github.io/publication/lou2016_sac.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/lou2016_sac.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-aniche-gt-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating non-adequate test-case reduction</title>
-      <link>https://sserl.github.io/publication/alipoursgmg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/alipoursgmg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confkbse-alipour-sgmg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finding Model-Checkable Needles in Large Source Code Haystacks: Modular Bug-Finding via Static Analysis and Dynamic Invariant Discovery</title>
-      <link>https://sserl.github.io/publication/alipourgzsc16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-alipour-gzsc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/alipourgzsc16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-alipour-gzsc-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating focused random tests using directed swarm testing</title>
-      <link>https://sserl.github.io/publication/alipourggc16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/alipourggc16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Does the Shift to GitHub Impact Project Collaboration?</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icsm_diasspcg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficsm-dias-spcg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icsm_diasspcg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficsm-dias-spcg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is a Picture worth a Thousand Words?: A Comparative Analysis of Using Textual and Graphical Approaches to Specify Use Cases</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sbes_nascimentoscsmt16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsbes-nascimento-scsmt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sbes_nascimentoscsmt16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsbes-nascimento-scsmt-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Effectiveness of Mutant Sets</title>
-      <link>https://sserl.github.io/publication/gopinathaajg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficst-gopinath-aajg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/gopinathaajg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficst-gopinath-aajg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mitigating (and exploiting) test reduction slippage</title>
-      <link>https://sserl.github.io/publication/holmesga16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-holmes-ga-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/holmesga16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-holmes-ga-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More Common Than You Think: An In-depth Study of Casual Contributors</title>
-      <link>https://sserl.github.io/publication/dblp_conf_wcre_pintosg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confwcre-pinto-sg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_wcre_pintosg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confwcre-pinto-sg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the limits of mutation reduction strategies</title>
-      <link>https://sserl.github.io/publication/gopinathaajg16a.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-gopinath-aajg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/gopinathaajg16a.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-gopinath-aajg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overcoming open source project entry barriers with a portal for newcomers</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icse_steinmacherctg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-steinmacher-ctg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icse_steinmacherctg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-steinmacher-ctg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce16a.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce16a.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce16b.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-c/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce16b.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce16c.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce16c.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce16d.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-e/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce16d.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16-e/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Passages</title>
-      <link>https://sserl.github.io/publication/groce16e.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/groce16e.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-groce-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promoting Engagement in Open Collaboration Communities by Means of Gamification</title>
-      <link>https://sserl.github.io/publication/dblp_conf_hci_bertholdog16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confhci-bertholdo-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_hci_bertholdog16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confhci-bertholdo-g-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SATT: Tailoring Code Metric Thresholds for Different Software Architectures</title>
-      <link>https://sserl.github.io/publication/dblp_conf_scam_anichetzdg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confscam-aniche-tzdg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_scam_anichetzdg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confscam-aniche-tzdg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture</title>
-      <link>https://sserl.github.io/publication/dblp_journals_corr_santanacgkm16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalscorr-santana-cgkm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_corr_santanacgkm16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalscorr-santana-cgkm-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Supporting Software Architecture Learning Using Runtime Visualization</title>
-      <link>https://sserl.github.io/publication/georgaspm16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confcsee-georgas-pm-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/georgaspm16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confcsee-georgas-pm-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topsy-Turvy: a smarter and faster parallelization of mutation analysis</title>
-      <link>https://sserl.github.io/publication/gopinathjg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficse-gopinath-jg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/gopinathjg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficse-gopinath-jg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Training the future workforce through task curation in an OSS ecosystem</title>
-      <link>https://sserl.github.io/publication/dblp_conf_sigsoft_sarmagsl16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-sarma-gsl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_sigsoft_sarmagsl16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-sarma-gsl-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual programming and automatic evaluation of exercises: An experience with a STEM course</title>
-      <link>https://sserl.github.io/publication/dblp_conf_fie_brandaobg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conffie-brandao-bg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_fie_brandaobg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conffie-brandao-bg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who is Who in the Mailing List? Comparing Six Disambiguation Heuristics to Identify Multiple Addresses of a Participant</title>
-      <link>https://sserl.github.io/publication/dblp_conf_icsm_wiesesstg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-conficsm-wiese-sstg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_conf_icsm_wiesesstg16.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-conficsm-wiese-sstg-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why is programming so difficult to learn?: Patterns of Difficulties Related to Programming Learning Mid-Stage</title>
-      <link>https://sserl.github.io/publication/dblp_journals_sigsoft_bosseg16.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      <link>https://sserl.github.io/publication/dblp-journalssigsoft-bosse-g-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sserl.github.io/publication/dblp_journals_sigsoft_bosseg16.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conc2seq: A Frama-C Plugin for Verification of  Parallel Compositions of C Programs</title>
-      <link>https://sserl.github.io/publication/bkl2016_scam.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://sserl.github.io/publication/bkl2016_scam.bib/</guid>
+      <guid>https://sserl.github.io/publication/dblp-journalssigsoft-bosse-g-16/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Pinto on SSERL</title>
+    <link>https://sserl.github.io/authors/gustavo-pinto/</link>
+    <description>Recent content in Gustavo Pinto on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/gustavo-pinto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Training software engineers using open-source software: the students&#39; perspective</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-0001-fssm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-0001-fssm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Attracts Newcomers to Onboard on OSS Projects? TL;DR: Popularity</title>
+      <link>https://sserl.github.io/publication/dblp-confoss-fronchetti-w-0-s-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confoss-fronchetti-w-0-s-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almost there: a study on quasi-contributors in open source software projects</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-steinmacher-0-wg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How modern news aggregators help development communities shape and share knowledge</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaving Behind the Software History When Transitioning to Open Source: Reasons and Implications</title>
+      <link>https://sserl.github.io/publication/dblp-confoss-0001-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confoss-0001-sg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the challenges of open-sourcing proprietary software projects</title>
+      <link>https://sserl.github.io/publication/dblp-journalsese-pinto-sdg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsese-pinto-sdg-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When students become contributors: leveraging OSS contributions in software engineering courses</title>
+      <link>https://sserl.github.io/publication/dblp-confsbes-ferreira-s-0-sm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsbes-ferreira-s-0-sm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who drives company-owned OSS projects: internal or external members?</title>
+      <link>https://sserl.github.io/publication/dblp-journalsjbcs-dias-sp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsjbcs-dias-sp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who gets a patch accepted first?: comparing the contributions of employees and volunteers</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-0001-ds-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-0001-ds-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Does the Shift to GitHub Impact Project Collaboration?</title>
+      <link>https://sserl.github.io/publication/dblp-conficsm-dias-spcg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficsm-dias-spcg-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Common Than You Think: An In-depth Study of Casual Contributors</title>
+      <link>https://sserl.github.io/publication/dblp-confwcre-pinto-sg-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confwcre-pinto-sg-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

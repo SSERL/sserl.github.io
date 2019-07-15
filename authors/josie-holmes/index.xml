@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josie Holmes on SSERL</title>
+    <link>https://sserl.github.io/authors/josie-holmes/</link>
+    <description>Recent content in Josie Holmes on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/josie-holmes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An extensible, regular-expression-based tool for multi-language mutant generation</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-groce-hmsz-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Distance-Metric-Based Assistance for Debugging after Compiler Fuzzing</title>
+      <link>https://sserl.github.io/publication/dblp-confissre-holmes-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissre-holmes-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How verified (or tested) is my code? Falsification-driven verification and testing</title>
+      <link>https://sserl.github.io/publication/dblp-journalsase-groce-ajmh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalsase-groce-ajmh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TSTL: the template scripting testing language</title>
+      <link>https://sserl.github.io/publication/dblp-journalssttt-holmes-gpmako-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalssttt-holmes-gpmako-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A suite of tools for making effective use of automatically generated tests</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-holmes-g-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-holmes-g-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One test to rule them all</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-groce-hk-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-groce-hk-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance and Pseudo-Provenance for Seeded Learning-Based Automated Test Generation</title>
+      <link>https://sserl.github.io/publication/dblp-journalscorrabs-1711-01661/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-journalscorrabs-1711-01661/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigating (and exploiting) test reduction slippage</title>
+      <link>https://sserl.github.io/publication/dblp-confsigsoft-holmes-ga-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsigsoft-holmes-ga-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

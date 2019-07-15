@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Wiese on SSERL</title>
+    <link>https://sserl.github.io/authors/igor-wiese/</link>
+    <description>Recent content in Igor Wiese on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/igor-wiese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Should I stale or should I close?: an analysis of a bot that closes abandoned issues and pull requests</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-wessel-swg-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-wessel-swg-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Attracts Newcomers to Onboard on OSS Projects? TL;DR: Popularity</title>
+      <link>https://sserl.github.io/publication/dblp-confoss-fronchetti-w-0-s-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confoss-fronchetti-w-0-s-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How modern news aggregators help development communities shape and share knowledge</title>
+      <link>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-conficse-aniche-tsw-0-sg-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

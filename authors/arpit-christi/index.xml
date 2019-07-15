@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arpit Christi on SSERL</title>
+    <link>https://sserl.github.io/authors/arpit-christi/</link>
+    <description>Recent content in Arpit Christi on SSERL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sserl.github.io/authors/arpit-christi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reduce Before You Localize: Delta-Debugging and Spectrum-Based Fault Localization</title>
+      <link>https://sserl.github.io/publication/dblp-confissre-christi-oag-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissre-christi-oag-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target Selection for Test-Based Resource Adaptation</title>
+      <link>https://sserl.github.io/publication/dblp-confqrs-christi-g-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confqrs-christi-g-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Adaptation via Test-Based Software Minimization</title>
+      <link>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confsaso-christi-gg-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating focused random tests using directed swarm testing</title>
+      <link>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sserl.github.io/publication/dblp-confissta-alipour-ggc-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
